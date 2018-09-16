@@ -6,3 +6,6 @@ Even with police and communities teaming up, crime rates still rose over 5% in 2
   - Maplotlib
   - Pandas
   - Numpy
+  
+## Data
+The dataset can be downloaded in [here](https://catalog.data.gov/dataset/crime-data-from-2010-to-present)
